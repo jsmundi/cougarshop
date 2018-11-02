@@ -1,0 +1,17 @@
+.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  background-color: #F5F5F5;
+}
+
+.center.menu {
+  box-shadow: none;
+  border: none;
+  background-color: #FFFFFF;
+  margin-bottom: 0%;
+
+}
+
+.ui.fluid.image{
+  background-color: #292929;
+}
