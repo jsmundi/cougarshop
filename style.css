@@ -15,3 +15,60 @@
 .ui.fluid.image{
   background-color: #292929;
 }
+
+
+.ui.section.divider{
+  color: #FFFFFF;
+  background-color: white;
+}
+
+.ui.three.column.grid
+{
+  background-color: #292929;
+  margin: 0%;
+  border: none;
+  box-shadow: none;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.ui.dividing.header
+{
+  margin: 0%;
+  padding: 5px;
+  color: white;
+  border-block-end-color: white;
+  text-align-last: left;
+}
+.linkF
+{
+  color: white;
+}
+
+.ui.labeled.icon.menu
+{
+  background-color: #292929;
+  border: none;
+  box-shadow: none;
+  margin: none;
+  outline: none;
+}
+
+ui.centered.grid.container
+{
+  padding: 25px;
+  background-color: #292929;
+  border: none;
+  box-shadow: none;
+}
+.ui.labeled.icon.menu
+{
+  padding: 25px;
+}
+
+.ui.text.centered.grid.container
+{
+  padding-top: 25px;
+  color: white;
+  padding-bottom: 50px;
+}
